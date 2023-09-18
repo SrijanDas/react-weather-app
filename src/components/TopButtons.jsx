@@ -22,13 +22,10 @@ function TopButtons({ setQuery }) {
       id: 5,
       title: "Bangalore",
     },
- 
-    
-    
   ];
 
   return (
-    <div className="flex items-center justify-start gap-4 py-1 px-1 overflow-y-scroll scrollbar-hide">
+    <div className="flex items-center justify-between gap-4 py-1 px-1 overflow-y-scroll scrollbar-hide">
       {cities.map((city) => (
         <button
           key={city.id}
