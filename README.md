@@ -1,8 +1,5 @@
-# How to use the project
+# Weather App
 
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+## Visit -> https://react-weather-app-indol-nu.vercel.app/
 
 > Leave a star :)
